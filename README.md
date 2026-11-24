@@ -17,6 +17,7 @@ plus test set foto HP sendiri (41 foto, 11 kondisi) untuk analisis domain shift.
 | `test_custom_clean.json` | Anotasi test custom (COCO) setelah dibersihkan |
 | `test_custom_surface_clean.json` | Varian anotasi dengan kelas dinding/lantai/plafon (analisis sensitivitas) |
 | `clean_custom.py` | Skrip pembersihan anotasi export Roboflow |
+| `LOGBOOK.md` | Logbook mingguan: kegiatan, hipotesis, kendala, keputusan |
 
 Foto test custom tidak disertakan karena metadata EXIF-nya memuat lokasi GPS.
 
