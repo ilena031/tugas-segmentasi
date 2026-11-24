@@ -8,3 +8,8 @@ training_output/
 *.pth
 .DS_Store
 ~$*
+
+# file kerja yang tidak perlu di repo
+build_notebook.py
+checklist_anotasi.csv
+kaggle_upload_custom/
