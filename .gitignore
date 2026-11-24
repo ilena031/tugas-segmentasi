@@ -1,0 +1,10 @@
+# foto (besar, dan foto asli memuat GPS di EXIF) -> tidak di-commit
+Dataset_CV/
+Dataset_CV_jpg/
+CV_3-Folder- Dataset_CV_jpg - Auto Label/
+kaggle_upload_custom/images/
+training_output/
+*.pt
+*.pth
+.DS_Store
+~$*
