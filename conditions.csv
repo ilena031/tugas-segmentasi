@@ -1,0 +1,42 @@
+file,kondisi_utama,kondisi_tambahan,catatan
+1A205BFE-355B-4727-B360-BC5F92EF089F.jpg,clutter,,meja printer + kertas + laptop
+4AA54D02-D25F-40BD-84B0-FDC5B7F31012.jpg,oklusi,,kursi tertutup box styrofoam
+9A46F03F-64D3-479E-937F-DB0F71D202CA.jpg,close_up,,botol dekat kamera; cek kelas botol ada/tidak
+A7789B9E-C98E-4501-84A5-B2DC08FC6FC5.jpg,sudut_ekstrem,pantulan,low-angle; lantai mengkilap
+BF01E5A0-FD52-4AD4-BAE0-59E010B7F865.jpg,normal,,baseline kantor
+F08214DF-EE44-4F71-88CD-48E9212A07E6.jpg,clutter,pantulan,meja kaca memantulkan objek
+IMG_0366.jpg,cahaya_minim,clutter,kafe gelap
+IMG_0370.jpg,clutter,,troli + kucing + rak
+IMG_0577.jpg,normal,,ruang presentasi
+IMG_1079.jpg,backlight,,lampu langsung di frame
+IMG_1092.jpg,normal,,ruang rapat
+IMG_1648.jpg,clutter,,diambil beruntun dengan 1649-1652
+IMG_1649.jpg,clutter,,kandidat dibuang (hampir duplikat 1648)
+IMG_1650.jpg,clutter,oklusi,orang di depan
+IMG_1651.jpg,clutter,oklusi,
+IMG_1652.jpg,oklusi,clutter,wajah terlihat
+IMG_1655.jpg,polos_tanpa_tekstur,,toilet marmer
+IMG_1656.jpg,polos_tanpa_tekstur,,wastafel marmer
+IMG_1657.jpg,pantulan,close_up,cermin; botol sabun
+IMG_1682.jpg,instance_kecil_berulang,,deretan kursi
+IMG_1684.jpg,oklusi,clutter,orang + laptop; wajah terlihat
+IMG_1685.jpg,oklusi,,orang di depan kamera
+IMG_1686.jpg,motion_blur,cahaya_minim,
+IMG_1687.jpg,motion_blur,,
+IMG_1688.jpg,backlight,sudut_ekstrem,jendela bergorden terang
+IMG_1689.jpg,pantulan,,cermin berdiri
+IMG_1691.jpg,clutter,,rak + tas
+IMG_1692.jpg,normal,,pintu + meja kecil
+IMG_1693.jpg,cahaya_minim,sudut_ekstrem,tangga gelap
+IMG_1695.jpg,clutter,,dapur
+IMG_1696.jpg,sudut_ekstrem,,top-down
+IMG_1697.jpg,normal,,kulkas kecil
+IMG_1698.jpg,sudut_ekstrem,,
+IMG_1699.jpg,polos_tanpa_tekstur,,dinding polos + jendela
+IMG_1700.jpg,polos_tanpa_tekstur,,rak kosong; cek kelas
+IMG_8804.jpg,backlight,oklusi,jendela terang; wajah terlihat
+IMG_9070.jpg,instance_kecil_berulang,,banyak kursi/meja
+IMG_9791.jpg,backlight,close_up,jendela terang
+IMG_9793.jpg,normal,,kursi + meja kafe
+IMG_9802.jpg,cahaya_minim,,restoran redup
+IMG_9841.jpg,sudut_ekstrem,,top-down; kandidat dibuang (hanya tas)
